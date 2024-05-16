@@ -3,26 +3,34 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 class Translation:
     START_TEXT = """
-Hi {}
+Hᴇʏ {} 👋,
 
-I am Powerful Url Uploader Bot
+I ᴀᴍ URL Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ. Jᴜsᴛ sᴇɴᴅ ᴍᴇ ᴀɴʏ Dɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ᴀɴᴅ I ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ғɪʟᴇ ᴛᴏ ʏᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ 😍
+
+Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @RocketBotzz
+
 """
 
     HELP_TEXT = """
 
-# Send me the Google Drive | ytdl | direct links.
+I ᴡɪʟʟ sᴜᴘᴘᴏʀᴛ YᴏᴜTᴜʙᴇ, Gᴏᴏɢʟᴇ Dʀɪᴠᴇ ᴏʀ Aɴʏ Oᴛʜᴇʀ Dɪʀᴇᴄᴛ Lɪɴᴋs..!
 
-# Select the desired option.
+Jᴜsᴛ sᴇɴᴅ ᴛʜᴇ ʟɪɴᴋ.
 
-# Then be relaxed your file will be uploaded soon..
+Sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
+
+Tʜᴇɴ ʙᴇ ʀᴇʟᴀxᴇᴅ ʏᴏᴜʀ ғɪʟᴇ ᴡɪʟʟ ʙᴇ ᴜᴘʟᴏᴀᴅᴇᴅ sᴏᴏɴ..
+
+Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @RocketBotzz
+
 """
 
     # give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Bot
+<b>🤖 Mʏ Nᴀᴍᴇ</b> : URL Uᴘʟᴏᴀᴅᴇʀ
 
-<b>🌀 Channel</b> : <a href="https://t.me/TMWAD">@TMWAD</a>
+<b>  </b> : <a href="https://t.me/TMWAD">@TMWAD</a>
 
 <b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
 
