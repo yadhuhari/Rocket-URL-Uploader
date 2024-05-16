@@ -30,15 +30,15 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @RocketBotzz
     ABOUT_TEXT = """
 <b>🤖 Mʏ Nᴀᴍᴇ</b> : URL Uᴘʟᴏᴀᴅᴇʀ
 
-<b>  </b> : <a href="https://t.me/TMWAD">@TMWAD</a>
+<b>🌀 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ</b> : <a href="https://t.me/RocketBotzz">Rᴏᴄᴋᴇᴛ Bᴏᴛᴢᴢ</a>
 
-<b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
+<b>🌐 Sᴇʀᴠᴇʀ</b> : <a href="https://render.com/">Rᴇɴᴅᴇʀ</a>
 
-<b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
+<b>📃 Lᴀɴɢᴜᴀɢᴇ :</b> <a href="https://www.python.org/">Pʏᴛʜᴏɴ</a>
 
-<b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
+<b>📝 Fʀᴀᴍᴇᴡᴏʀᴋ :</b> <a href="https://docs.pyrogram.org/">Pʏʀᴏɢʀᴀᴍ</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/kinu6">@kinu6</a>
+<b>👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ :</b> <a href="https://t.me/YourRocketTG">Rᴏᴄᴋᴇᴛ 𝚃𝙶</a>
 
 """
 
