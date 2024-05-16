@@ -43,69 +43,68 @@ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : @RocketBotzz
 """
 
     PROGRESS = """
-🔰 Speed : {3}/s\n\n
-🌀 Done : {1}\n\n
-🎥 Tᴏᴛᴀʟ sɪᴢᴇ  : {2}\n\n
+🚀 Sᴘᴇᴇᴅ : {3}/s\n\n
+☑️ Dᴏɴᴇ : {1}\n\n
+📂 Tᴏᴛᴀʟ Sɪᴢᴇ  : {2}\n\n
 ⏳ Tɪᴍᴇ ʟᴇғᴛ : {4}\n\n
 """
     ID_TEXT = """
-🆔 Your Telegram ID 𝐢𝐬 :- <code>{}</code>
+🆔 Yᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ ɪᴅ ɪs :- <code>{}</code>
 """
 
     INFO_TEXT = """
+ 🤹 Fɪʀsᴛ Nᴀᴍᴇ : <b>{}</b>
 
- 🤹 First Name : <b>{}</b>
+ 🚴‍♂️ Sᴇᴄᴏɴᴅ Nᴀᴍᴇ : <b>{}</b>
 
- 🚴‍♂️ Second Name : <b>{}</b>
+ 🧑🏻‍🎓 Usᴇʀɴᴀᴍᴇ : <b>@{}</b>
 
- 🧑🏻‍🎓 Username : <b>@{}</b>
+ 🆔 Tᴇʟᴇɢʀᴀᴍ Iᴅ : <code>{}</code>
 
- 🆔 Telegram Id : <code>{}</code>
+ 📇 Pʀᴏғɪʟᴇ Lɪɴᴋ : <b>{}</b>
 
- 📇 Profile Link : <b>{}</b>
+ 📡 Dᴄ : <b>{}</b>
 
- 📡 Dc : <b>{}</b>
+ 📑 Lᴀɴɢᴜᴀɢᴇ : <b>{}</b>
 
- 📑 Language : <b>{}</b>
-
- 👲 Status : <b>{}</b>
+ 👲 Sᴛᴀᴛᴜs : <b>{}</b>
 """
 
     START_BUTTONS = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("❓ Help", callback_data="help"),
-                InlineKeyboardButton("🦊 About", callback_data="about"),
+                InlineKeyboardButton("Hᴇʟᴘ 🛠", callback_data="help"),
+                InlineKeyboardButton("Aʙᴏᴜᴛ 🤠", callback_data="about"),
             ],
-            [InlineKeyboardButton("📛 Close", callback_data="close")],
+            [InlineKeyboardButton("Cʟᴏsᴇ 📛", callback_data="close")],
         ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🏠 Home", callback_data="home"),
-                InlineKeyboardButton("🦊 About", callback_data="about"),
+                InlineKeyboardButton("Hᴏᴍᴇ 🏡", callback_data="home"),
+                InlineKeyboardButton("Aʙᴏᴜᴛ 🤠", callback_data="about"),
             ],
-            [InlineKeyboardButton("📛 Close", callback_data="close")],
+            [InlineKeyboardButton("Cʟᴏsᴇ 📛", callback_data="close")],
         ]
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🏠 Home", callback_data="home"),
-                InlineKeyboardButton("❓ Help", callback_data="help"),
+                InlineKeyboardButton("Hᴏᴍᴇ 🏡", callback_data="home"),
+                InlineKeyboardButton("Hᴇʟᴘ 🛠", callback_data="help"),
             ],
-            [InlineKeyboardButton("📛 Close", callback_data="close")],
+            [InlineKeyboardButton("Cʟᴏsᴇ 📛", callback_data="close")],
         ]
     )
     BUTTONS = InlineKeyboardMarkup(
-        [[InlineKeyboardButton("📛 Close", callback_data="close")]]
+        [[InlineKeyboardButton("Cʟᴏsᴇ 📛", callback_data="close")]]
     )
-    FORMAT_SELECTION = "Now Select the desired formats"
+    FORMAT_SELECTION = "Nᴏᴡ Sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ғᴏʀᴍᴀᴛs"
     SET_CUSTOM_USERNAME_PASSWORD = """"""
-    DOWNLOAD_START = "Trying to Download ⌛\n\n <i>{} </i>"
-    UPLOAD_START = "<i>{} </i>\n\n📤 Uploading Please Wait "
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
+    DOWNLOAD_START = "Tʀʏɪɴɢ ᴛᴏ Dᴏᴡɴʟᴏᴀᴅ ⌛\n\n <i>{} </i>"
+    UPLOAD_START = "<i>{} </i>\n\n📤 Uᴘʟᴏᴀᴅɪɴɢ Pʟᴇᴀsᴇ Wᴀɪᴛ"
+    RCHD_TG_API_LIMIT = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs. /n Dᴇᴛᴇᴄᴛᴇᴅ Fɪʟᴇ Sɪᴢᴇ: {} /nSᴏʀʀʏ. Bᴜᴛ, I ᴄᴀɴɴᴏᴛ ᴜᴘʟᴏᴀᴅ ғɪʟᴇs ɢʀᴇᴀᴛᴇʀ ᴛʜᴀɴ 2GB ᴅᴜᴇ ᴛᴏ Tᴇʟᴇɢʀᴀᴍ API ʟɪᴍɪᴛᴀᴛɪᴏɴs. "
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = (
         "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nTʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ\n\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs"
     )
